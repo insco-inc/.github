@@ -10,3 +10,9 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+[iOS App Store & Mac App Store](https://apps.apple.com/us/developer/id1474622324) · 
+[Google Play](https://play.google.com/store/apps/dev?id=6147500812487654859) · 
+[Amazon Store](https://www.amazon.com/s?i=mobile-apps&rh=p_4%3A青岛因斯科网络科技有限公司&search-type=ss) · 
+[Microsoft Store](https://apps.microsoft.com/search/publisher?name=Insco+LLC) · 
+[Snap Store](https://snapcraft.io/publisher/insco)
